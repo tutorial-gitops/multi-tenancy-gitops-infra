@@ -1,4 +1,4 @@
 ocp-console-notification:
   ## The background color that should be used for the banner
-  backgroundColor: white
+  backgroundColor: orange
 
